@@ -1,0 +1,20 @@
+﻿,airline,flight,source_city,departure_time,stops,arrival_time,destination_city,class,duration,days_left,price
+2,Vistara,UK-927,Delhi ,Morning,zero,Morning,Mumbai ,Economy,2.05,1,7320
+3,Air India ,AI-805,Delhi ,Night,zero,Night,Mumbai,Economy,2.1,1,7320
+4,Vistara,UK-774,Kolkata,Night,zero,Night,Mumbai,Business,2.5,26,32000
+5,AirIndia,AI-526,Kolkata,Night,one,Early Morning ,Mumbai,Business,5.05,31,37544
+6,Indigo,6E-6623,Kolkata,Morning ,one,Morning ,Bangalore,Economy ,5.5,32,6507
+7,SpiceJet,SG-516,Kolkata,Morning ,zero,Morning ,Bangalore,Economy ,3.3,24,7820
+8,Air_India,AI-526,Kolkata,Evening,one,Night,Mumbai,Economy,4.92,7,16254
+9,Vistara,UK-776,Kolkata,Evening,one,Night,Bangalore,Business ,5.2,32,52305
+10,Vistara,UK-776,Kolkata,Evening,one,Night,Bangalore,Business ,5.2,32,52305
+11,Air India,AI-672,Chennai ,evening ,one,Night ,kolkata,Business ,8.25,33,54641
+12,AirAsia,I5-974,Hyderabad,Night,zero,Night,Banglore,economy,1.3,18,3690
+13,Vistara,UK-890,Hyderabad,Evening,zero,Night,Delhi,business,2.15,19,3883
+14,AirIndia,AI-441,Hyderabad,Evening,zero,Night,Delhi,business,2.25,40,22152
+15,Air India,AI-640,Banglore,morning,zero,morning,Mumbai,Business,1.55,25,20955
+16,Air India,AI-505,Banglore,morning,one,Night,Hyderabad,Business,9,32,56671
+17,Vistara,UK-858,Banglore,morning,zero,morning,Mumbai,Business,1.4,33,20955
+18,SpiceJet,SG-8709,Hyderabad,Evening,one,Night,Chennai,economy,26.35,31,9311
+19,GoFirst,G8-346,Hyderabad,Night,one,Morning,Chennai,economy,11.55,18,23240
+20,Indigo,6E-796,Chennai ,Night ,Zero,Night ,Bangalore,Economy ,0.55,15,3523
